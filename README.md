@@ -6,7 +6,9 @@ Moreso, The music was from youtube reference.
 ![Web view](/readme/Screenshot%20from%202024-02-15%2016-01-47.png)
 
 ## Mobile View
-![Mobile View](/readme/Screenshot%20from%202024-02-15%2016-01-47.png)
+![Mobile View](/readme/IMG_1362.png)
 
 ## Note ?!
 This project will be abandoned for a while, so I can work on other interesting projects.
+
+Tifelabs...
