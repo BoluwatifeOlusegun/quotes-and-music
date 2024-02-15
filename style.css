@@ -1,0 +1,30 @@
+.fullhead{
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Music{
+    color: royalblue;
+}
+.r{
+    border-radius: 20px;
+}
+.grandhi{
+    border-radius: 20px;
+}
+
+.teresa{
+    border-radius: 20px;
+}
+
+.martin{
+    border-radius: 20px;
+}
+
+.ending{
+    color: red;
+}
+
+*{
+    background-color:beige
+}
