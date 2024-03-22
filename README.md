@@ -3,10 +3,10 @@ This is just a plain page made with html with the touch of css.
 This project is about a website page that shows famous quotes and Music.
 Moreso, The music was from youtube reference.
 ## Web View
-![Web view](/readme/Screenshot%20from%202024-02-15%2016-01-47.png)
+![Web view](./assets/Images/web.png)
 
 ## Mobile View
-![Mobile View](/readme/IMG_1362.png)
+![Mobile View](./assets/Images/mobile.png)
 
 ## To View
  [click here to view webpage](https://boluwatifeolusegun.github.io/quotes-and-music/)
