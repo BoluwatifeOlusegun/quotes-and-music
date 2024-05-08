@@ -9,7 +9,7 @@ Moreso, The music was from youtube reference.
 ![Mobile View](./assets/Images/mobile.png)
 
 ## To View
- [click here to view webpage](https://boluwatifeolusegun.github.io/quotes-and-music/)
+ [click here to view webpage](https://tifelabs.github.io/quotes-and-music/)
 
 ## Note ?!
 This project will be abandoned for a while, so I can work on other interesting projects.
